@@ -1,4 +1,4 @@
-function count(firstParam, secondParam) {
-    console.log(firstParam, secondParam);
+function count(paramOne, paramTwo) {
+    console.log(paramOne, paramTwo);
 }
-count(2, 3);
+count(8, 16);
