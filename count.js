@@ -1,4 +1,4 @@
-function count(montBornIn) {
-    console.log(montBornIn);
+function count(paramOne, paramTwo) {
+    console.log(paramOne, paramTwo);
 }
-count(2);
+count(8, 16);
