@@ -6,4 +6,4 @@ class Cheer {
   }
 }
 
-Cheer.addTeamName(teamName);
+Cheer.addTeamName('React team');
