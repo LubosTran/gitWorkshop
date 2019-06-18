@@ -1,4 +1,4 @@
-function count(age) {
-    console.log(age);
+function count(montBornIn) {
+    console.log(montBornIn);
 }
-count(28);
+count(2);
