@@ -1,7 +1,7 @@
 class Cheer {
-  static class addTeamName(teamName) {
+  static addTeamName(teamName) {
     const myDiv = document.createElement('h2');
-    myDiv.innerText = teamName;
+    myDiv.innerText = 'Greetings for the ' + teamName;
     document.body.append(myDiv);
   }
 }
