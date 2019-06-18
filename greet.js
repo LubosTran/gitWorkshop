@@ -1,4 +1,4 @@
-function greet(language) {
-    console.log(language);
+function greet(language, location) {
+    console.log(language, location);
 }
-greet("English");
+greet("English", "Prague");
