@@ -1,8 +1,4 @@
-'use strict'
-console.log("Lubos");
-document.body.innerText = "Lubos";
-function greet(wutver) {
-    console.log(wutver);
+function greet(language) {
+    console.log(language);
 }
-
-greet("Lubos");
+greet("English");
